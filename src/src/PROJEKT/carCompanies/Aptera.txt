@@ -1,0 +1,1 @@
+Purchase{id_porzadkowe_zakupu=595, person=Person{imie='Uta', nazwisko='Stych', email='ustychgi@amazonaws.com', ip='87.95.129.26'}, car=Car{color='#abcf0d', vin='WA1UFAFL7FA845805', company='Aptera', model='Typ-1', model_year='2008', price=24570.34}, localization=Localization{country='Czech Republic', city='Vrdy'}, dateTime=2020-12-15T00:00}

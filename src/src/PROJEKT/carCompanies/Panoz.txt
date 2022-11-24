@@ -1,0 +1,1 @@
+Purchase{id_porzadkowe_zakupu=77, person=Person{imie='Addison', nazwisko='Kleinstub', email='akleinstub24@prnewswire.com', ip='97.50.102.136'}, car=Car{color='#530864', vin='WAUJT54B53N474177', company='Panoz', model='Esperante', model_year='2005', price=53455.19}, localization=Localization{country='Czech Republic', city='Psáry'}, dateTime=2020-08-28T00:00}

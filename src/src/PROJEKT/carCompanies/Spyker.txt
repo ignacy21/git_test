@@ -1,0 +1,1 @@
+Purchase{id_porzadkowe_zakupu=559, person=Person{imie='Antoine', nazwisko='Lynnitt', email='alynnittfi@dyndns.org', ip='91.125.49.240'}, car=Car{color='#8c25fa', vin='5UXZV4C5XBL433882', company='Spyker', model='C8 Double 12 S', model_year='2006', price=96561.56}, localization=Localization{country='Poland', city='Golina'}, dateTime=2020-08-13T00:00}

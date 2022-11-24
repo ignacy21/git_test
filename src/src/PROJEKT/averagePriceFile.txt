@@ -1,0 +1,3514 @@
+1.
+marka: GMC
+model: Sierra 1500
+number of cars bought: 1
+price of all cars combined: 56821.35
+average price: 56821.35
+
+2.
+marka: Chevrolet
+model: Cavalier
+number of cars bought: 3
+price of all cars combined: 154270.17
+average price: 51423.39
+
+3.
+marka: Nissan
+model: Xterra
+number of cars bought: 2
+price of all cars combined: 90892.44
+average price: 45446.22
+
+4.
+marka: Volkswagen
+model: GLI
+number of cars bought: 1
+price of all cars combined: 82687.12
+average price: 82687.12
+
+5.
+marka: Land Rover
+model: Discovery Series II
+number of cars bought: 1
+price of all cars combined: 72459.38
+average price: 72459.38
+
+6.
+marka: Ford
+model: E150
+number of cars bought: 3
+price of all cars combined: 211834.96
+average price: 70611.65
+
+7.
+marka: Toyota
+model: Sienna
+number of cars bought: 1
+price of all cars combined: 68263.57
+average price: 68263.57
+
+8.
+marka: Mercedes-Benz
+model: S-Class
+number of cars bought: 3
+price of all cars combined: 176460.45
+average price: 58820.15
+
+9.
+marka: Chevrolet
+model: Cobalt
+number of cars bought: 1
+price of all cars combined: 67487.58
+average price: 67487.58
+
+10.
+marka: Audi
+model: A3
+number of cars bought: 6
+price of all cars combined: 182668.49
+average price: 30444.75
+
+11.
+marka: Ford
+model: Freestyle
+number of cars bought: 1
+price of all cars combined: 85917.7
+average price: 85917.7
+
+12.
+marka: Audi
+model: A4
+number of cars bought: 2
+price of all cars combined: 105639.46
+average price: 52819.73
+
+13.
+marka: Mercury
+model: Lynx
+number of cars bought: 2
+price of all cars combined: 151337.90
+average price: 75668.95
+
+14.
+marka: Toyota
+model: Supra
+number of cars bought: 1
+price of all cars combined: 8892.98
+average price: 8892.98
+
+15.
+marka: Audi
+model: A6
+number of cars bought: 2
+price of all cars combined: 25393.00
+average price: 12696.50
+
+16.
+marka: Audi
+model: A8
+number of cars bought: 4
+price of all cars combined: 113661.20
+average price: 28415.30
+
+17.
+marka: Rolls-Royce
+model: Phantom
+number of cars bought: 2
+price of all cars combined: 149229.07
+average price: 74614.54
+
+18.
+marka: Porsche
+model: 911
+number of cars bought: 7
+price of all cars combined: 389975.58
+average price: 55710.80
+
+19.
+marka: Nissan
+model: 350Z
+number of cars bought: 1
+price of all cars combined: 39853.04
+average price: 39853.04
+
+20.
+marka: Citroën
+model: 2CV
+number of cars bought: 1
+price of all cars combined: 21373.33
+average price: 21373.33
+
+21.
+marka: Isuzu
+model: Rodeo
+number of cars bought: 3
+price of all cars combined: 172510.04
+average price: 57503.35
+
+22.
+marka: Ford
+model: F350
+number of cars bought: 4
+price of all cars combined: 200236.05
+average price: 50059.01
+
+23.
+marka: Hyundai
+model: Sonata
+number of cars bought: 5
+price of all cars combined: 263055.52
+average price: 52611.10
+
+24.
+marka: Mercedes-Benz
+model: CLK-Class
+number of cars bought: 1
+price of all cars combined: 93260.59
+average price: 93260.59
+
+25.
+marka: Hyundai
+model: Santa Fe
+number of cars bought: 1
+price of all cars combined: 38452.21
+average price: 38452.21
+
+26.
+marka: Dodge
+model: Ram Van B150
+number of cars bought: 1
+price of all cars combined: 94292.51
+average price: 94292.51
+
+27.
+marka: GMC
+model: Rally Wagon G3500
+number of cars bought: 1
+price of all cars combined: 35595.63
+average price: 35595.63
+
+28.
+marka: Lotus
+model: Esprit
+number of cars bought: 4
+price of all cars combined: 116365.41
+average price: 29091.35
+
+29.
+marka: Nissan
+model: Titan
+number of cars bought: 2
+price of all cars combined: 59622.73
+average price: 29811.37
+
+30.
+marka: Lexus
+model: IS-F
+number of cars bought: 1
+price of all cars combined: 20327.75
+average price: 20327.75
+
+31.
+marka: Honda
+model: Ridgeline
+number of cars bought: 1
+price of all cars combined: 56635.51
+average price: 56635.51
+
+32.
+marka: Cadillac
+model: Eldorado
+number of cars bought: 2
+price of all cars combined: 71684.00
+average price: 35842.00
+
+33.
+marka: Mitsubishi
+model: Pajero
+number of cars bought: 5
+price of all cars combined: 338900.55
+average price: 67780.11
+
+34.
+marka: Volkswagen
+model: Cabriolet
+number of cars bought: 5
+price of all cars combined: 137357.27
+average price: 27471.45
+
+35.
+marka: Infiniti
+model: G
+number of cars bought: 2
+price of all cars combined: 107280.07
+average price: 53640.04
+
+36.
+marka: Pontiac
+model: 1000
+number of cars bought: 1
+price of all cars combined: 84056.46
+average price: 84056.46
+
+37.
+marka: Infiniti
+model: I
+number of cars bought: 1
+price of all cars combined: 23254.85
+average price: 23254.85
+
+38.
+marka: Infiniti
+model: J
+number of cars bought: 1
+price of all cars combined: 28641.01
+average price: 28641.01
+
+39.
+marka: Infiniti
+model: M
+number of cars bought: 3
+price of all cars combined: 169391.04
+average price: 56463.68
+
+40.
+marka: Chrysler
+model: Aspen
+number of cars bought: 1
+price of all cars combined: 43763.08
+average price: 43763.08
+
+41.
+marka: Dodge
+model: Viper RT/10
+number of cars bought: 1
+price of all cars combined: 42522.73
+average price: 42522.73
+
+42.
+marka: Chevrolet
+model: Sportvan G30
+number of cars bought: 3
+price of all cars combined: 208515.66
+average price: 69505.22
+
+43.
+marka: Infiniti
+model: Q
+number of cars bought: 1
+price of all cars combined: 22305.5
+average price: 22305.5
+
+44.
+marka: Honda
+model: Passport
+number of cars bought: 1
+price of all cars combined: 68602.7
+average price: 68602.7
+
+45.
+marka: Toyota
+model: Previa
+number of cars bought: 1
+price of all cars combined: 75874.85
+average price: 75874.85
+
+46.
+marka: Subaru
+model: Outback
+number of cars bought: 2
+price of all cars combined: 110103.00
+average price: 55051.50
+
+47.
+marka: Chevrolet
+model: Express 2500
+number of cars bought: 2
+price of all cars combined: 82724.76
+average price: 41362.38
+
+48.
+marka: Chevrolet
+model: G-Series G10
+number of cars bought: 2
+price of all cars combined: 162738.56
+average price: 81369.28
+
+49.
+marka: Buick
+model: Lucerne
+number of cars bought: 1
+price of all cars combined: 2848.09
+average price: 2848.09
+
+50.
+marka: Ford
+model: Mustang
+number of cars bought: 9
+price of all cars combined: 453239.82
+average price: 50359.98
+
+51.
+marka: Hyundai
+model: Accent
+number of cars bought: 3
+price of all cars combined: 73242.20
+average price: 24414.07
+
+52.
+marka: Ford
+model: F250
+number of cars bought: 4
+price of all cars combined: 262041.26
+average price: 65510.32
+
+53.
+marka: Acura
+model: RDX
+number of cars bought: 1
+price of all cars combined: 64467.57
+average price: 64467.57
+
+54.
+marka: Mercury
+model: Cougar
+number of cars bought: 5
+price of all cars combined: 297660.65
+average price: 59532.13
+
+55.
+marka: Acura
+model: CL
+number of cars bought: 1
+price of all cars combined: 82961.35
+average price: 82961.35
+
+56.
+marka: Kia
+model: Spectra
+number of cars bought: 2
+price of all cars combined: 102734.37
+average price: 51367.19
+
+57.
+marka: Buick
+model: Century
+number of cars bought: 2
+price of all cars combined: 30859.19
+average price: 15429.60
+
+58.
+marka: BMW
+model: 6 Series
+number of cars bought: 2
+price of all cars combined: 137400.75
+average price: 68700.38
+
+59.
+marka: Pontiac
+model: Sunbird
+number of cars bought: 3
+price of all cars combined: 208480.38
+average price: 69493.46
+
+60.
+marka: Nissan
+model: Quest
+number of cars bought: 3
+price of all cars combined: 57669.12
+average price: 19223.04
+
+61.
+marka: Dodge
+model: Ram Van B250
+number of cars bought: 1
+price of all cars combined: 23476.59
+average price: 23476.59
+
+62.
+marka: Dodge
+model: Durango
+number of cars bought: 1
+price of all cars combined: 45584.85
+average price: 45584.85
+
+63.
+marka: Nissan
+model: Cube
+number of cars bought: 1
+price of all cars combined: 53525.58
+average price: 53525.58
+
+64.
+marka: Mercury
+model: Mountaineer
+number of cars bought: 3
+price of all cars combined: 107184.70
+average price: 35728.23
+
+65.
+marka: MINI
+model: Cooper
+number of cars bought: 1
+price of all cars combined: 1568.56
+average price: 1568.56
+
+66.
+marka: Pontiac
+model: Trans Sport
+number of cars bought: 1
+price of all cars combined: 305.73
+average price: 305.73
+
+67.
+marka: Chevrolet
+model: Tracker
+number of cars bought: 1
+price of all cars combined: 72207.02
+average price: 72207.02
+
+68.
+marka: Isuzu
+model: Amigo
+number of cars bought: 1
+price of all cars combined: 36303.51
+average price: 36303.51
+
+69.
+marka: Nissan
+model: Sentra
+number of cars bought: 4
+price of all cars combined: 181321.88
+average price: 45330.47
+
+70.
+marka: Ford
+model: F-Series Super Duty
+number of cars bought: 2
+price of all cars combined: 76505.84
+average price: 38252.92
+
+71.
+marka: Subaru
+model: Legacy
+number of cars bought: 3
+price of all cars combined: 194396.85
+average price: 64798.95
+
+72.
+marka: Nissan
+model: Altima
+number of cars bought: 7
+price of all cars combined: 391270.14
+average price: 55895.73
+
+73.
+marka: GMC
+model: Safari
+number of cars bought: 2
+price of all cars combined: 112853.98
+average price: 56426.99
+
+74.
+marka: Toyota
+model: Avalon
+number of cars bought: 2
+price of all cars combined: 131935.24
+average price: 65967.62
+
+75.
+marka: GMC
+model: Sierra
+number of cars bought: 1
+price of all cars combined: 51743.05
+average price: 51743.05
+
+76.
+marka: Ford
+model: Festiva
+number of cars bought: 1
+price of all cars combined: 12769.3
+average price: 12769.3
+
+77.
+marka: Ford
+model: Aerostar
+number of cars bought: 4
+price of all cars combined: 266348.26
+average price: 66587.07
+
+78.
+marka: Mercury
+model: Sable
+number of cars bought: 3
+price of all cars combined: 159419.85
+average price: 53139.95
+
+79.
+marka: Mercury
+model: Grand Marquis
+number of cars bought: 7
+price of all cars combined: 329675.05
+average price: 47096.44
+
+80.
+marka: Geo
+model: Metro
+number of cars bought: 4
+price of all cars combined: 247568.67
+average price: 61892.17
+
+81.
+marka: Honda
+model: Insight
+number of cars bought: 1
+price of all cars combined: 62828.48
+average price: 62828.48
+
+82.
+marka: Chevrolet
+model: Avalanche 1500
+number of cars bought: 2
+price of all cars combined: 99582.59
+average price: 49791.30
+
+83.
+marka: Lamborghini
+model: Countach
+number of cars bought: 1
+price of all cars combined: 62789.57
+average price: 62789.57
+
+84.
+marka: Toyota
+model: Sequoia
+number of cars bought: 3
+price of all cars combined: 62930.36
+average price: 20976.79
+
+85.
+marka: Cadillac
+model: CTS-V
+number of cars bought: 2
+price of all cars combined: 64140.07
+average price: 32070.04
+
+86.
+marka: Mitsubishi
+model: Raider
+number of cars bought: 3
+price of all cars combined: 117453.01
+average price: 39151.00
+
+87.
+marka: Volkswagen
+model: Golf
+number of cars bought: 5
+price of all cars combined: 245707.87
+average price: 49141.57
+
+88.
+marka: Subaru
+model: Justy
+number of cars bought: 3
+price of all cars combined: 136094.52
+average price: 45364.84
+
+89.
+marka: Ford
+model: F150
+number of cars bought: 2
+price of all cars combined: 37588.08
+average price: 18794.04
+
+90.
+marka: Dodge
+model: Stratus
+number of cars bought: 4
+price of all cars combined: 209382.93
+average price: 52345.73
+
+91.
+marka: Chevrolet
+model: Impala
+number of cars bought: 2
+price of all cars combined: 84508.05
+average price: 42254.03
+
+92.
+marka: Volkswagen
+model: Fox
+number of cars bought: 1
+price of all cars combined: 77660.74
+average price: 77660.74
+
+93.
+marka: Lexus
+model: ES
+number of cars bought: 1
+price of all cars combined: 75323.1
+average price: 75323.1
+
+94.
+marka: Nissan
+model: Pathfinder Armada
+number of cars bought: 1
+price of all cars combined: 96775.2
+average price: 96775.2
+
+95.
+marka: Mazda
+model: MX-6
+number of cars bought: 1
+price of all cars combined: 56681.54
+average price: 56681.54
+
+96.
+marka: Dodge
+model: Ram Van B350
+number of cars bought: 2
+price of all cars combined: 134845.26
+average price: 67422.63
+
+97.
+marka: Saturn
+model: S-Series
+number of cars bought: 2
+price of all cars combined: 18034.05
+average price: 9017.03
+
+98.
+marka: Infiniti
+model: EX
+number of cars bought: 1
+price of all cars combined: 1044.88
+average price: 1044.88
+
+99.
+marka: Chrysler
+model: Town & Country
+number of cars bought: 2
+price of all cars combined: 99575.13
+average price: 49787.57
+
+100.
+marka: Mazda
+model: MX-3
+number of cars bought: 1
+price of all cars combined: 40200.92
+average price: 40200.92
+
+101.
+marka: BMW
+model: 600
+number of cars bought: 1
+price of all cars combined: 72427.8
+average price: 72427.8
+
+102.
+marka: Eagle
+model: Vision
+number of cars bought: 3
+price of all cars combined: 211950.98
+average price: 70650.33
+
+103.
+marka: Chevrolet
+model: Sportvan G20
+number of cars bought: 1
+price of all cars combined: 46420.2
+average price: 46420.2
+
+104.
+marka: Mazda
+model: MX-5
+number of cars bought: 4
+price of all cars combined: 109803.64
+average price: 27450.91
+
+105.
+marka: Chevrolet
+model: Express 3500
+number of cars bought: 4
+price of all cars combined: 230850.00
+average price: 57712.50
+
+106.
+marka: Mazda
+model: Mazda2
+number of cars bought: 1
+price of all cars combined: 77296.02
+average price: 77296.02
+
+107.
+marka: Ford
+model: Explorer
+number of cars bought: 2
+price of all cars combined: 116656.64
+average price: 58328.32
+
+108.
+marka: Mazda
+model: CX-7
+number of cars bought: 4
+price of all cars combined: 229518.72
+average price: 57379.68
+
+109.
+marka: Mazda
+model: CX-5
+number of cars bought: 1
+price of all cars combined: 56757.95
+average price: 56757.95
+
+110.
+marka: Pontiac
+model: G5
+number of cars bought: 1
+price of all cars combined: 453.87
+average price: 453.87
+
+111.
+marka: GMC
+model: 2500 Club Coupe
+number of cars bought: 1
+price of all cars combined: 45723.16
+average price: 45723.16
+
+112.
+marka: Pontiac
+model: G6
+number of cars bought: 3
+price of all cars combined: 174865.41
+average price: 58288.47
+
+113.
+marka: Nissan
+model: Pathfinder
+number of cars bought: 5
+price of all cars combined: 301789.63
+average price: 60357.93
+
+114.
+marka: Jaguar
+model: S-Type
+number of cars bought: 2
+price of all cars combined: 104354.31
+average price: 52177.16
+
+115.
+marka: Pontiac
+model: G8
+number of cars bought: 2
+price of all cars combined: 44832.72
+average price: 22416.36
+
+116.
+marka: Infiniti
+model: FX
+number of cars bought: 3
+price of all cars combined: 92489.16
+average price: 30829.72
+
+117.
+marka: Volvo
+model: 850
+number of cars bought: 2
+price of all cars combined: 114999.28
+average price: 57499.64
+
+118.
+marka: Mercedes-Benz
+model: G-Class
+number of cars bought: 2
+price of all cars combined: 121647.78
+average price: 60823.89
+
+119.
+marka: Chevrolet
+model: Colorado
+number of cars bought: 2
+price of all cars combined: 69298.96
+average price: 34649.48
+
+120.
+marka: Ford
+model: Thunderbird
+number of cars bought: 9
+price of all cars combined: 400021.92
+average price: 44446.88
+
+121.
+marka: Toyota
+model: T100 Xtra
+number of cars bought: 1
+price of all cars combined: 83465.1
+average price: 83465.1
+
+122.
+marka: Ford
+model: Escape
+number of cars bought: 5
+price of all cars combined: 262002.56
+average price: 52400.51
+
+123.
+marka: Buick
+model: Park Avenue
+number of cars bought: 3
+price of all cars combined: 142430.83
+average price: 47476.94
+
+124.
+marka: Suzuki
+model: Sidekick
+number of cars bought: 1
+price of all cars combined: 69918.56
+average price: 69918.56
+
+125.
+marka: Infiniti
+model: G35
+number of cars bought: 1
+price of all cars combined: 70158.45
+average price: 70158.45
+
+126.
+marka: Hummer
+model: H1
+number of cars bought: 2
+price of all cars combined: 101229.01
+average price: 50614.51
+
+127.
+marka: Suzuki
+model: Kizashi
+number of cars bought: 1
+price of all cars combined: 49388.37
+average price: 49388.37
+
+128.
+marka: Infiniti
+model: G37
+number of cars bought: 1
+price of all cars combined: 91197.03
+average price: 91197.03
+
+129.
+marka: Hummer
+model: H2
+number of cars bought: 1
+price of all cars combined: 29204.91
+average price: 29204.91
+
+130.
+marka: Mitsubishi
+model: Truck
+number of cars bought: 4
+price of all cars combined: 134366.57
+average price: 33591.64
+
+131.
+marka: Hummer
+model: H3
+number of cars bought: 1
+price of all cars combined: 13377.5
+average price: 13377.5
+
+132.
+marka: Lexus
+model: GS
+number of cars bought: 1
+price of all cars combined: 68162.34
+average price: 68162.34
+
+133.
+marka: Dodge
+model: Caravan
+number of cars bought: 3
+price of all cars combined: 110814.22
+average price: 36938.07
+
+134.
+marka: Honda
+model: Prelude
+number of cars bought: 1
+price of all cars combined: 99807.8
+average price: 99807.8
+
+135.
+marka: Volkswagen
+model: Quantum
+number of cars bought: 1
+price of all cars combined: 87150.11
+average price: 87150.11
+
+136.
+marka: Pontiac
+model: LeMans
+number of cars bought: 5
+price of all cars combined: 383548.07
+average price: 76709.61
+
+137.
+marka: Kia
+model: Rio
+number of cars bought: 2
+price of all cars combined: 113070.80
+average price: 56535.40
+
+138.
+marka: Ford
+model: Expedition
+number of cars bought: 2
+price of all cars combined: 150194.98
+average price: 75097.49
+
+139.
+marka: Mazda
+model: 626
+number of cars bought: 3
+price of all cars combined: 133624.70
+average price: 44541.57
+
+140.
+marka: Corbin
+model: Sparrow
+number of cars bought: 1
+price of all cars combined: 73545.83
+average price: 73545.83
+
+141.
+marka: Mercury
+model: Topaz
+number of cars bought: 3
+price of all cars combined: 159486.70
+average price: 53162.23
+
+142.
+marka: Volkswagen
+model: GTI
+number of cars bought: 6
+price of all cars combined: 271138.10
+average price: 45189.68
+
+143.
+marka: Mazda
+model: CX-9
+number of cars bought: 1
+price of all cars combined: 19705.91
+average price: 19705.91
+
+144.
+marka: Volkswagen
+model: Tiguan
+number of cars bought: 1
+price of all cars combined: 15415.59
+average price: 15415.59
+
+145.
+marka: Buick
+model: LaCrosse
+number of cars bought: 2
+price of all cars combined: 144235.51
+average price: 72117.76
+
+146.
+marka: Mitsubishi
+model: GTO
+number of cars bought: 4
+price of all cars combined: 229329.61
+average price: 57332.40
+
+147.
+marka: Mercedes-Benz
+model: CL65 AMG
+number of cars bought: 1
+price of all cars combined: 59195.01
+average price: 59195.01
+
+148.
+marka: Nissan
+model: Rogue
+number of cars bought: 1
+price of all cars combined: 45315.63
+average price: 45315.63
+
+149.
+marka: Saab
+model: 9-7X
+number of cars bought: 3
+price of all cars combined: 158539.29
+average price: 52846.43
+
+150.
+marka: Toyota
+model: Solara
+number of cars bought: 1
+price of all cars combined: 76247.84
+average price: 76247.84
+
+151.
+marka: Chevrolet
+model: Suburban 1500
+number of cars bought: 3
+price of all cars combined: 154754.16
+average price: 51584.72
+
+152.
+marka: Nissan
+model: 300ZX
+number of cars bought: 2
+price of all cars combined: 97075.08
+average price: 48537.54
+
+153.
+marka: Ford
+model: Econoline E250
+number of cars bought: 2
+price of all cars combined: 66381.35
+average price: 33190.68
+
+154.
+marka: Volkswagen
+model: rio
+number of cars bought: 2
+price of all cars combined: 58888.12
+average price: 29444.06
+
+155.
+marka: Hyundai
+model: Veracruz
+number of cars bought: 2
+price of all cars combined: 87358.62
+average price: 43679.31
+
+156.
+marka: Pontiac
+model: Montana
+number of cars bought: 1
+price of all cars combined: 49063.18
+average price: 49063.18
+
+157.
+marka: Mercedes-Benz
+model: 300E
+number of cars bought: 1
+price of all cars combined: 69282.52
+average price: 69282.52
+
+158.
+marka: Mercedes-Benz
+model: 300D
+number of cars bought: 1
+price of all cars combined: 17810.02
+average price: 17810.02
+
+159.
+marka: Mercedes-Benz
+model: SL65 AMG
+number of cars bought: 1
+price of all cars combined: 12734.28
+average price: 12734.28
+
+160.
+marka: Lexus
+model: IS
+number of cars bought: 2
+price of all cars combined: 73715.52
+average price: 36857.76
+
+161.
+marka: Toyota
+model: RAV4
+number of cars bought: 2
+price of all cars combined: 47698.65
+average price: 23849.33
+
+162.
+marka: Land Rover
+model: Range Rover Sport
+number of cars bought: 2
+price of all cars combined: 108429.87
+average price: 54214.94
+
+163.
+marka: Chevrolet
+model: Lumina
+number of cars bought: 2
+price of all cars combined: 80477.96
+average price: 40238.98
+
+164.
+marka: Chrysler
+model: 300M
+number of cars bought: 2
+price of all cars combined: 101190.26
+average price: 50595.13
+
+165.
+marka: BMW
+model: 3 Series
+number of cars bought: 2
+price of all cars combined: 50419.21
+average price: 25209.61
+
+166.
+marka: BMW
+model: 5 Series
+number of cars bought: 4
+price of all cars combined: 121325.43
+average price: 30331.36
+
+167.
+marka: BMW
+model: 760
+number of cars bought: 2
+price of all cars combined: 128840.77
+average price: 64420.39
+
+168.
+marka: Suzuki
+model: Swift
+number of cars bought: 2
+price of all cars combined: 106606.05
+average price: 53303.03
+
+169.
+marka: Toyota
+model: T100
+number of cars bought: 2
+price of all cars combined: 139910.41
+average price: 69955.21
+
+170.
+marka: Ford
+model: Escort
+number of cars bought: 1
+price of all cars combined: 34041.27
+average price: 34041.27
+
+171.
+marka: Nissan
+model: 200SX
+number of cars bought: 1
+price of all cars combined: 41834.99
+average price: 41834.99
+
+172.
+marka: Volkswagen
+model: Rabbit
+number of cars bought: 2
+price of all cars combined: 63683.87
+average price: 31841.94
+
+173.
+marka: Panoz
+model: Esperante
+number of cars bought: 1
+price of all cars combined: 53455.19
+average price: 53455.19
+
+174.
+marka: Acura
+model: Integra
+number of cars bought: 1
+price of all cars combined: 24435.25
+average price: 24435.25
+
+175.
+marka: Jaguar
+model: XJ Series
+number of cars bought: 4
+price of all cars combined: 94779.23
+average price: 23694.81
+
+176.
+marka: Bentley
+model: Continental GTC
+number of cars bought: 1
+price of all cars combined: 46403.57
+average price: 46403.57
+
+177.
+marka: Lotus
+model: Exige
+number of cars bought: 1
+price of all cars combined: 25498.46
+average price: 25498.46
+
+178.
+marka: BMW
+model: 530
+number of cars bought: 2
+price of all cars combined: 104054.99
+average price: 52027.50
+
+179.
+marka: Eagle
+model: Talon
+number of cars bought: 1
+price of all cars combined: 15778.36
+average price: 15778.36
+
+180.
+marka: Ford
+model: Contour
+number of cars bought: 1
+price of all cars combined: 48603.83
+average price: 48603.83
+
+181.
+marka: Chevrolet
+model: Cobalt SS
+number of cars bought: 1
+price of all cars combined: 68941.55
+average price: 68941.55
+
+182.
+marka: Ford
+model: Econoline E350
+number of cars bought: 2
+price of all cars combined: 94330.55
+average price: 47165.28
+
+183.
+marka: Isuzu
+model: Ascender
+number of cars bought: 1
+price of all cars combined: 3700.19
+average price: 3700.19
+
+184.
+marka: GMC
+model: Jimmy
+number of cars bought: 2
+price of all cars combined: 111600.85
+average price: 55800.43
+
+185.
+marka: Cadillac
+model: DeVille
+number of cars bought: 2
+price of all cars combined: 72949.45
+average price: 36474.73
+
+186.
+marka: Mercedes-Benz
+model: SLS AMG
+number of cars bought: 2
+price of all cars combined: 85958.82
+average price: 42979.41
+
+187.
+marka: Kia
+model: Optima
+number of cars bought: 1
+price of all cars combined: 36354.28
+average price: 36354.28
+
+188.
+marka: Volkswagen
+model: Phaeton
+number of cars bought: 1
+price of all cars combined: 12833.78
+average price: 12833.78
+
+189.
+marka: Saturn
+model: VUE
+number of cars bought: 1
+price of all cars combined: 26812.74
+average price: 26812.74
+
+190.
+marka: Dodge
+model: Grand Caravan
+number of cars bought: 6
+price of all cars combined: 230020.70
+average price: 38336.78
+
+191.
+marka: Mazda
+model: B-Series Plus
+number of cars bought: 4
+price of all cars combined: 297156.57
+average price: 74289.14
+
+192.
+marka: Porsche
+model: Boxster
+number of cars bought: 2
+price of all cars combined: 112950.84
+average price: 56475.42
+
+193.
+marka: Volvo
+model: V50
+number of cars bought: 1
+price of all cars combined: 95214.12
+average price: 95214.12
+
+194.
+marka: Chrysler
+model: 300
+number of cars bought: 1
+price of all cars combined: 91386.4
+average price: 91386.4
+
+195.
+marka: BMW
+model: 545
+number of cars bought: 1
+price of all cars combined: 62614.35
+average price: 62614.35
+
+196.
+marka: Chrysler
+model: New Yorker
+number of cars bought: 1
+price of all cars combined: 639.91
+average price: 639.91
+
+197.
+marka: Dodge
+model: Ram 2500 Club
+number of cars bought: 2
+price of all cars combined: 89137.55
+average price: 44568.78
+
+198.
+marka: Chrysler
+model: Concorde
+number of cars bought: 5
+price of all cars combined: 175776.51
+average price: 35155.30
+
+199.
+marka: Dodge
+model: Dakota
+number of cars bought: 5
+price of all cars combined: 355249.28
+average price: 71049.86
+
+200.
+marka: Toyota
+model: Tundra
+number of cars bought: 2
+price of all cars combined: 65733.64
+average price: 32866.82
+
+201.
+marka: Maserati
+model: Quattroporte
+number of cars bought: 1
+price of all cars combined: 83431.2
+average price: 83431.2
+
+202.
+marka: Lincoln
+model: Navigator L
+number of cars bought: 1
+price of all cars combined: 48521.65
+average price: 48521.65
+
+203.
+marka: Hyundai
+model: Tucson
+number of cars bought: 1
+price of all cars combined: 96352.61
+average price: 96352.61
+
+204.
+marka: BMW
+model: M3
+number of cars bought: 6
+price of all cars combined: 256155.93
+average price: 42692.66
+
+205.
+marka: Nissan
+model: Armada
+number of cars bought: 1
+price of all cars combined: 89173.53
+average price: 89173.53
+
+206.
+marka: Dodge
+model: Viper
+number of cars bought: 1
+price of all cars combined: 41325.74
+average price: 41325.74
+
+207.
+marka: Lexus
+model: LS
+number of cars bought: 2
+price of all cars combined: 118464.07
+average price: 59232.04
+
+208.
+marka: BMW
+model: M5
+number of cars bought: 2
+price of all cars combined: 116537.55
+average price: 58268.78
+
+209.
+marka: Chrysler
+model: Voyager
+number of cars bought: 4
+price of all cars combined: 252127.51
+average price: 63031.88
+
+210.
+marka: Lexus
+model: LX
+number of cars bought: 1
+price of all cars combined: 61266.53
+average price: 61266.53
+
+211.
+marka: Cadillac
+model: Seville
+number of cars bought: 3
+price of all cars combined: 102665.15
+average price: 34221.72
+
+212.
+marka: Daewoo
+model: Leganza
+number of cars bought: 1
+price of all cars combined: 94984.18
+average price: 94984.18
+
+213.
+marka: Dodge
+model: D150 Club
+number of cars bought: 1
+price of all cars combined: 45687.25
+average price: 45687.25
+
+214.
+marka: Pontiac
+model: Fiero
+number of cars bought: 1
+price of all cars combined: 8202.1
+average price: 8202.1
+
+215.
+marka: Aptera
+model: Typ-1
+number of cars bought: 1
+price of all cars combined: 24570.34
+average price: 24570.34
+
+216.
+marka: Hyundai
+model: Azera
+number of cars bought: 3
+price of all cars combined: 47987.48
+average price: 15995.83
+
+217.
+marka: Mazda
+model: Mazdaspeed 3
+number of cars bought: 2
+price of all cars combined: 135747.83
+average price: 67873.92
+
+218.
+marka: GMC
+model: Savana 1500
+number of cars bought: 1
+price of all cars combined: 40340.91
+average price: 40340.91
+
+219.
+marka: Dodge
+model: Magnum
+number of cars bought: 1
+price of all cars combined: 64382.28
+average price: 64382.28
+
+220.
+marka: Bentley
+model: Azure
+number of cars bought: 1
+price of all cars combined: 16032.57
+average price: 16032.57
+
+221.
+marka: Austin
+model: Mini Cooper S
+number of cars bought: 1
+price of all cars combined: 98795.19
+average price: 98795.19
+
+222.
+marka: Land Rover
+model: Discovery
+number of cars bought: 2
+price of all cars combined: 121898.65
+average price: 60949.33
+
+223.
+marka: Lotus
+model: Elise
+number of cars bought: 1
+price of all cars combined: 21021.05
+average price: 21021.05
+
+224.
+marka: Volvo
+model: V70
+number of cars bought: 2
+price of all cars combined: 82168.31
+average price: 41084.16
+
+225.
+marka: Pontiac
+model: Solstice
+number of cars bought: 1
+price of all cars combined: 20647.67
+average price: 20647.67
+
+226.
+marka: Toyota
+model: Tercel
+number of cars bought: 1
+price of all cars combined: 16793.13
+average price: 16793.13
+
+227.
+marka: Chevrolet
+model: S10
+number of cars bought: 1
+price of all cars combined: 72424.96
+average price: 72424.96
+
+228.
+marka: Mitsubishi
+model: Montero
+number of cars bought: 3
+price of all cars combined: 52800.57
+average price: 17600.19
+
+229.
+marka: Mitsubishi
+model: Outlander
+number of cars bought: 1
+price of all cars combined: 20062.34
+average price: 20062.34
+
+230.
+marka: Pontiac
+model: Grand Am
+number of cars bought: 1
+price of all cars combined: 31178.86
+average price: 31178.86
+
+231.
+marka: Chevrolet
+model: G-Series G20
+number of cars bought: 3
+price of all cars combined: 165613.38
+average price: 55204.46
+
+232.
+marka: Austin
+model: Mini Cooper
+number of cars bought: 1
+price of all cars combined: 11178.82
+average price: 11178.82
+
+233.
+marka: Dodge
+model: Ram 3500 Club
+number of cars bought: 1
+price of all cars combined: 51816.43
+average price: 51816.43
+
+234.
+marka: Mercedes-Benz
+model: 300TE
+number of cars bought: 1
+price of all cars combined: 58487.99
+average price: 58487.99
+
+235.
+marka: Mazda
+model: Familia
+number of cars bought: 2
+price of all cars combined: 154000.90
+average price: 77000.45
+
+236.
+marka: Bentley
+model: Continental Flying Spur
+number of cars bought: 1
+price of all cars combined: 4558.8
+average price: 4558.8
+
+237.
+marka: GMC
+model: Sierra 3500HD
+number of cars bought: 2
+price of all cars combined: 100610.21
+average price: 50305.11
+
+238.
+marka: Suzuki
+model: SJ 410
+number of cars bought: 1
+price of all cars combined: 47819.2
+average price: 47819.2
+
+239.
+marka: Plymouth
+model: Volare
+number of cars bought: 1
+price of all cars combined: 88917.51
+average price: 88917.51
+
+240.
+marka: BMW
+model: 330
+number of cars bought: 1
+price of all cars combined: 3362.42
+average price: 3362.42
+
+241.
+marka: Toyota
+model: 4Runner
+number of cars bought: 4
+price of all cars combined: 253830.10
+average price: 63457.53
+
+242.
+marka: Dodge
+model: Neon
+number of cars bought: 2
+price of all cars combined: 102624.91
+average price: 51312.46
+
+243.
+marka: Mercedes-Benz
+model: W201
+number of cars bought: 2
+price of all cars combined: 179539.39
+average price: 89769.70
+
+244.
+marka: Chevrolet
+model: Monte Carlo
+number of cars bought: 1
+price of all cars combined: 66959.46
+average price: 66959.46
+
+245.
+marka: Cadillac
+model: SRX
+number of cars bought: 2
+price of all cars combined: 84870.48
+average price: 42435.24
+
+246.
+marka: Volkswagen
+model: New Beetle
+number of cars bought: 2
+price of all cars combined: 63571.65
+average price: 31785.83
+
+247.
+marka: Plymouth
+model: Colt Vista
+number of cars bought: 1
+price of all cars combined: 53245.72
+average price: 53245.72
+
+248.
+marka: Volvo
+model: C30
+number of cars bought: 1
+price of all cars combined: 48525.09
+average price: 48525.09
+
+249.
+marka: Ford
+model: Bronco
+number of cars bought: 2
+price of all cars combined: 77427.35
+average price: 38713.68
+
+250.
+marka: Mitsubishi
+model: Endeavor
+number of cars bought: 4
+price of all cars combined: 184413.51
+average price: 46103.38
+
+251.
+marka: Isuzu
+model: Rodeo Sport
+number of cars bought: 1
+price of all cars combined: 59634.95
+average price: 59634.95
+
+252.
+marka: Lincoln
+model: Blackwood
+number of cars bought: 1
+price of all cars combined: 31306.78
+average price: 31306.78
+
+253.
+marka: Toyota
+model: Yaris
+number of cars bought: 1
+price of all cars combined: 95943.63
+average price: 95943.63
+
+254.
+marka: Nissan
+model: Frontier
+number of cars bought: 1
+price of all cars combined: 20489.68
+average price: 20489.68
+
+255.
+marka: Toyota
+model: Camry
+number of cars bought: 3
+price of all cars combined: 237440.20
+average price: 79146.73
+
+256.
+marka: Ford
+model: Transit Connect
+number of cars bought: 1
+price of all cars combined: 99772.91
+average price: 99772.91
+
+257.
+marka: Chevrolet
+model: Suburban 2500
+number of cars bought: 5
+price of all cars combined: 294822.19
+average price: 58964.44
+
+258.
+marka: Chevrolet
+model: SSR
+number of cars bought: 1
+price of all cars combined: 47507.31
+average price: 47507.31
+
+259.
+marka: Cadillac
+model: Escalade
+number of cars bought: 2
+price of all cars combined: 77251.1
+average price: 38625.6
+
+260.
+marka: Mercedes-Benz
+model: SLK-Class
+number of cars bought: 5
+price of all cars combined: 292649.61
+average price: 58529.92
+
+261.
+marka: Morgan
+model: Aero 8
+number of cars bought: 2
+price of all cars combined: 96729.73
+average price: 48364.87
+
+262.
+marka: Nissan
+model: Versa
+number of cars bought: 1
+price of all cars combined: 91895.71
+average price: 91895.71
+
+263.
+marka: Ford
+model: Edge
+number of cars bought: 1
+price of all cars combined: 23688.13
+average price: 23688.13
+
+264.
+marka: Honda
+model: Pilot
+number of cars bought: 2
+price of all cars combined: 80828.14
+average price: 40414.07
+
+265.
+marka: Mercedes-Benz
+model: CL-Class
+number of cars bought: 1
+price of all cars combined: 77944.64
+average price: 77944.64
+
+266.
+marka: Cadillac
+model: CTS
+number of cars bought: 2
+price of all cars combined: 110010.10
+average price: 55005.05
+
+267.
+marka: Mazda
+model: Tribute
+number of cars bought: 1
+price of all cars combined: 8031.83
+average price: 8031.83
+
+268.
+marka: Audi
+model: Q7
+number of cars bought: 1
+price of all cars combined: 4808.26
+average price: 4808.26
+
+269.
+marka: Mitsubishi
+model: Challenger
+number of cars bought: 1
+price of all cars combined: 24182.93
+average price: 24182.93
+
+270.
+marka: Hyundai
+model: Elantra
+number of cars bought: 2
+price of all cars combined: 100471.50
+average price: 50235.75
+
+271.
+marka: Toyota
+model: Celica
+number of cars bought: 2
+price of all cars combined: 115930.85
+average price: 57965.43
+
+272.
+marka: Volvo
+model: S40
+number of cars bought: 2
+price of all cars combined: 17454.61
+average price: 8727.31
+
+273.
+marka: Toyota
+model: Tacoma Xtra
+number of cars bought: 3
+price of all cars combined: 65495.59
+average price: 21831.86
+
+274.
+marka: BMW
+model: 8 Series
+number of cars bought: 1
+price of all cars combined: 36491.19
+average price: 36491.19
+
+275.
+marka: GMC
+model: Yukon XL 1500
+number of cars bought: 1
+price of all cars combined: 55144.44
+average price: 55144.44
+
+276.
+marka: Subaru
+model: Forester
+number of cars bought: 3
+price of all cars combined: 243866.60
+average price: 81288.87
+
+277.
+marka: Buick
+model: Skyhawk
+number of cars bought: 1
+price of all cars combined: 13632.45
+average price: 13632.45
+
+278.
+marka: Pontiac
+model: 6000
+number of cars bought: 1
+price of all cars combined: 5256.21
+average price: 5256.21
+
+279.
+marka: Jeep
+model: Cherokee
+number of cars bought: 1
+price of all cars combined: 3765.12
+average price: 3765.12
+
+280.
+marka: Mercury
+model: Tracer
+number of cars bought: 2
+price of all cars combined: 56957.88
+average price: 28478.94
+
+281.
+marka: Infiniti
+model: QX
+number of cars bought: 1
+price of all cars combined: 94251.36
+average price: 94251.36
+
+282.
+marka: Mazda
+model: Millenia
+number of cars bought: 2
+price of all cars combined: 60560.52
+average price: 30280.26
+
+283.
+marka: Honda
+model: Civic
+number of cars bought: 5
+price of all cars combined: 302899.01
+average price: 60579.80
+
+284.
+marka: Fiat
+model: Nuova 500
+number of cars bought: 1
+price of all cars combined: 66508.75
+average price: 66508.75
+
+285.
+marka: GMC
+model: Savana 2500
+number of cars bought: 3
+price of all cars combined: 235712.93
+average price: 78570.98
+
+286.
+marka: Mitsubishi
+model: Expo
+number of cars bought: 1
+price of all cars combined: 44918.65
+average price: 44918.65
+
+287.
+marka: Mercury
+model: Milan
+number of cars bought: 1
+price of all cars combined: 63884.95
+average price: 63884.95
+
+288.
+marka: Kia
+model: Soul
+number of cars bought: 1
+price of all cars combined: 30479.21
+average price: 30479.21
+
+289.
+marka: Ford
+model: Tempo
+number of cars bought: 4
+price of all cars combined: 111365.98
+average price: 27841.50
+
+290.
+marka: Mercedes-Benz
+model: M-Class
+number of cars bought: 2
+price of all cars combined: 174859.38
+average price: 87429.69
+
+291.
+marka: Volkswagen
+model: Passat
+number of cars bought: 2
+price of all cars combined: 103367.87
+average price: 51683.94
+
+292.
+marka: Chrysler
+model: Cirrus
+number of cars bought: 1
+price of all cars combined: 52197.41
+average price: 52197.41
+
+293.
+marka: Hyundai
+model: Genesis Coupe
+number of cars bought: 1
+price of all cars combined: 16713.2
+average price: 16713.2
+
+294.
+marka: Mercury
+model: Mystique
+number of cars bought: 1
+price of all cars combined: 94727.98
+average price: 94727.98
+
+295.
+marka: Mitsubishi
+model: Lancer Evolution
+number of cars bought: 2
+price of all cars combined: 95566.97
+average price: 47783.49
+
+296.
+marka: Acura
+model: RL
+number of cars bought: 2
+price of all cars combined: 107197.77
+average price: 53598.89
+
+297.
+marka: Nissan
+model: Datsun/Nissan Z-car
+number of cars bought: 2
+price of all cars combined: 153471.33
+average price: 76735.67
+
+298.
+marka: GMC
+model: Savana
+number of cars bought: 1
+price of all cars combined: 31054.78
+average price: 31054.78
+
+299.
+marka: Ford
+model: Fusion
+number of cars bought: 1
+price of all cars combined: 84373.36
+average price: 84373.36
+
+300.
+marka: Maserati
+model: GranTurismo
+number of cars bought: 1
+price of all cars combined: 9968.08
+average price: 9968.08
+
+301.
+marka: BMW
+model: Alpina B7
+number of cars bought: 2
+price of all cars combined: 104361.0
+average price: 52180.5
+
+302.
+marka: Audi
+model: S4
+number of cars bought: 3
+price of all cars combined: 223824.21
+average price: 74608.07
+
+303.
+marka: Audi
+model: S8
+number of cars bought: 1
+price of all cars combined: 17758.68
+average price: 17758.68
+
+304.
+marka: Ford
+model: Th!nk
+number of cars bought: 1
+price of all cars combined: 82727.44
+average price: 82727.44
+
+305.
+marka: Toyota
+model: Land Cruiser
+number of cars bought: 5
+price of all cars combined: 300477.45
+average price: 60095.49
+
+306.
+marka: Pontiac
+model: Firebird
+number of cars bought: 1
+price of all cars combined: 98532.02
+average price: 98532.02
+
+307.
+marka: Volvo
+model: S60
+number of cars bought: 1
+price of all cars combined: 3041.86
+average price: 3041.86
+
+308.
+marka: Lexus
+model: SC
+number of cars bought: 2
+price of all cars combined: 113086.25
+average price: 56543.13
+
+309.
+marka: Buick
+model: Riviera
+number of cars bought: 2
+price of all cars combined: 89358.72
+average price: 44679.36
+
+310.
+marka: Mercedes-Benz
+model: W123
+number of cars bought: 1
+price of all cars combined: 44748.84
+average price: 44748.84
+
+311.
+marka: GMC
+model: Savana 3500
+number of cars bought: 2
+price of all cars combined: 97627.07
+average price: 48813.54
+
+312.
+marka: Subaru
+model: SVX
+number of cars bought: 1
+price of all cars combined: 96360.87
+average price: 96360.87
+
+313.
+marka: Mazda
+model: RX-7
+number of cars bought: 2
+price of all cars combined: 115610.43
+average price: 57805.22
+
+314.
+marka: Mazda
+model: RX-8
+number of cars bought: 1
+price of all cars combined: 62387.06
+average price: 62387.06
+
+315.
+marka: Chevrolet
+model: Tahoe
+number of cars bought: 1
+price of all cars combined: 48509.46
+average price: 48509.46
+
+316.
+marka: Volvo
+model: C70
+number of cars bought: 1
+price of all cars combined: 28721.16
+average price: 28721.16
+
+317.
+marka: Toyota
+model: Corolla
+number of cars bought: 3
+price of all cars combined: 237649.01
+average price: 79216.34
+
+318.
+marka: Chevrolet
+model: Express
+number of cars bought: 1
+price of all cars combined: 74983.39
+average price: 74983.39
+
+319.
+marka: Honda
+model: CR-Z
+number of cars bought: 2
+price of all cars combined: 59815.07
+average price: 29907.54
+
+320.
+marka: Honda
+model: CR-X
+number of cars bought: 1
+price of all cars combined: 30531.61
+average price: 30531.61
+
+321.
+marka: Toyota
+model: Echo
+number of cars bought: 1
+price of all cars combined: 57053.25
+average price: 57053.25
+
+322.
+marka: Lincoln
+model: Navigator
+number of cars bought: 3
+price of all cars combined: 106203.28
+average price: 35401.09
+
+323.
+marka: Honda
+model: CR-V
+number of cars bought: 5
+price of all cars combined: 238823.85
+average price: 47764.77
+
+324.
+marka: Pontiac
+model: Bonneville
+number of cars bought: 3
+price of all cars combined: 158694.67
+average price: 52898.22
+
+325.
+marka: Mitsubishi
+model: Mirage
+number of cars bought: 5
+price of all cars combined: 287711.33
+average price: 57542.27
+
+326.
+marka: Honda
+model: Accord
+number of cars bought: 3
+price of all cars combined: 211180.96
+average price: 70393.65
+
+327.
+marka: Lamborghini
+model: Gallardo
+number of cars bought: 3
+price of all cars combined: 207487.94
+average price: 69162.65
+
+328.
+marka: Suzuki
+model: SX4
+number of cars bought: 1
+price of all cars combined: 22436.09
+average price: 22436.09
+
+329.
+marka: Acura
+model: ZDX
+number of cars bought: 1
+price of all cars combined: 74967.68
+average price: 74967.68
+
+330.
+marka: Subaru
+model: Leone
+number of cars bought: 1
+price of all cars combined: 61810.51
+average price: 61810.51
+
+331.
+marka: Land Rover
+model: Freelander
+number of cars bought: 1
+price of all cars combined: 66450.69
+average price: 66450.69
+
+332.
+marka: Mitsubishi
+model: Starion
+number of cars bought: 3
+price of all cars combined: 219751.47
+average price: 73250.49
+
+333.
+marka: Mercedes-Benz
+model: R-Class
+number of cars bought: 3
+price of all cars combined: 130156.56
+average price: 43385.52
+
+334.
+marka: Lamborghini
+model: Diablo
+number of cars bought: 3
+price of all cars combined: 253409.34
+average price: 84469.78
+
+335.
+marka: Lincoln
+model: MKT
+number of cars bought: 2
+price of all cars combined: 66963.55
+average price: 33481.78
+
+336.
+marka: Mitsubishi
+model: Montero Sport
+number of cars bought: 1
+price of all cars combined: 10997.24
+average price: 10997.24
+
+337.
+marka: Mercedes-Benz
+model: SLR McLaren
+number of cars bought: 1
+price of all cars combined: 98123.27
+average price: 98123.27
+
+338.
+marka: Acura
+model: TL
+number of cars bought: 3
+price of all cars combined: 174654.11
+average price: 58218.04
+
+339.
+marka: Pontiac
+model: Vibe
+number of cars bought: 2
+price of all cars combined: 90280.57
+average price: 45140.29
+
+340.
+marka: Audi
+model: TT
+number of cars bought: 1
+price of all cars combined: 66745.47
+average price: 66745.47
+
+341.
+marka: Volvo
+model: S80
+number of cars bought: 3
+price of all cars combined: 186984.18
+average price: 62328.06
+
+342.
+marka: Ford
+model: F-Series
+number of cars bought: 4
+price of all cars combined: 234308.97
+average price: 58577.24
+
+343.
+marka: Ford
+model: E-Series
+number of cars bought: 3
+price of all cars combined: 73623.25
+average price: 24541.08
+
+344.
+marka: Porsche
+model: 924 S
+number of cars bought: 1
+price of all cars combined: 96664.65
+average price: 96664.65
+
+345.
+marka: Mazda
+model: Miata MX-5
+number of cars bought: 1
+price of all cars combined: 34512.2
+average price: 34512.2
+
+346.
+marka: GMC
+model: Rally Wagon 3500
+number of cars bought: 1
+price of all cars combined: 12368.59
+average price: 12368.59
+
+347.
+marka: Toyota
+model: TundraMax
+number of cars bought: 1
+price of all cars combined: 21198.48
+average price: 21198.48
+
+348.
+marka: Oldsmobile
+model: Cutlass Supreme
+number of cars bought: 2
+price of all cars combined: 131966.46
+average price: 65983.23
+
+349.
+marka: Subaru
+model: Loyale
+number of cars bought: 1
+price of all cars combined: 43850.02
+average price: 43850.02
+
+350.
+marka: Isuzu
+model: Hombre Space
+number of cars bought: 1
+price of all cars combined: 14300.87
+average price: 14300.87
+
+351.
+marka: Audi
+model: V8
+number of cars bought: 1
+price of all cars combined: 94151.66
+average price: 94151.66
+
+352.
+marka: Maybach
+model: 57
+number of cars bought: 5
+price of all cars combined: 191183.03
+average price: 38236.61
+
+353.
+marka: Buick
+model: Roadmaster
+number of cars bought: 3
+price of all cars combined: 153945.83
+average price: 51315.28
+
+354.
+marka: Oldsmobile
+model: Bravada
+number of cars bought: 1
+price of all cars combined: 99984.84
+average price: 99984.84
+
+355.
+marka: Honda
+model: Odyssey
+number of cars bought: 3
+price of all cars combined: 188303.89
+average price: 62767.96
+
+356.
+marka: Chevrolet
+model: Malibu
+number of cars bought: 2
+price of all cars combined: 89342.77
+average price: 44671.39
+
+357.
+marka: Suzuki
+model: Grand Vitara
+number of cars bought: 1
+price of all cars combined: 46821.21
+average price: 46821.21
+
+358.
+marka: Bentley
+model: Mulsanne
+number of cars bought: 1
+price of all cars combined: 44587.82
+average price: 44587.82
+
+359.
+marka: Mercury
+model: Capri
+number of cars bought: 1
+price of all cars combined: 8438.45
+average price: 8438.45
+
+360.
+marka: GMC
+model: Yukon XL 2500
+number of cars bought: 1
+price of all cars combined: 69035.73
+average price: 69035.73
+
+361.
+marka: Maybach
+model: 62
+number of cars bought: 1
+price of all cars combined: 92208.52
+average price: 92208.52
+
+362.
+marka: Mercedes-Benz
+model: CLS-Class
+number of cars bought: 1
+price of all cars combined: 3183.57
+average price: 3183.57
+
+363.
+marka: Saturn
+model: Relay
+number of cars bought: 1
+price of all cars combined: 47066.72
+average price: 47066.72
+
+364.
+marka: Ford
+model: Galaxie
+number of cars bought: 1
+price of all cars combined: 64097.32
+average price: 64097.32
+
+365.
+marka: Ford
+model: Five Hundred
+number of cars bought: 1
+price of all cars combined: 63582.71
+average price: 63582.71
+
+366.
+marka: Honda
+model: Element
+number of cars bought: 1
+price of all cars combined: 76710.1
+average price: 76710.1
+
+367.
+marka: Jaguar
+model: XK Series
+number of cars bought: 2
+price of all cars combined: 125673.92
+average price: 62836.96
+
+368.
+marka: Scion
+model: xD
+number of cars bought: 1
+price of all cars combined: 40805.33
+average price: 40805.33
+
+369.
+marka: Jeep
+model: Liberty
+number of cars bought: 2
+price of all cars combined: 107204.73
+average price: 53602.37
+
+370.
+marka: Isuzu
+model: Stylus
+number of cars bought: 1
+price of all cars combined: 3457.0
+average price: 3457.0
+
+371.
+marka: Audi
+model: Quattro
+number of cars bought: 1
+price of all cars combined: 49492.18
+average price: 49492.18
+
+372.
+marka: Spyker
+model: C8 Double 12 S
+number of cars bought: 1
+price of all cars combined: 96561.56
+average price: 96561.56
+
+373.
+marka: Volkswagen
+model: Type 2
+number of cars bought: 1
+price of all cars combined: 42551.68
+average price: 42551.68
+
+374.
+marka: Audi
+model: 5000S
+number of cars bought: 1
+price of all cars combined: 62830.11
+average price: 62830.11
+
+375.
+marka: Ford
+model: Econoline E150
+number of cars bought: 2
+price of all cars combined: 65127.62
+average price: 32563.81
+
+376.
+marka: Cadillac
+model: Escalade ESV
+number of cars bought: 2
+price of all cars combined: 95280.05
+average price: 47640.03
+
+377.
+marka: BMW
+model: X5
+number of cars bought: 4
+price of all cars combined: 156321.97
+average price: 39080.49
+
+378.
+marka: BMW
+model: X6
+number of cars bought: 2
+price of all cars combined: 141242.07
+average price: 70621.04
+
+379.
+marka: GMC
+model: Yukon XL
+number of cars bought: 1
+price of all cars combined: 11181.27
+average price: 11181.27
+
+380.
+marka: Volkswagen
+model: Jetta
+number of cars bought: 5
+price of all cars combined: 318224.09
+average price: 63644.82
+
+381.
+marka: Ford
+model: Freestar
+number of cars bought: 1
+price of all cars combined: 74898.8
+average price: 74898.8
+
+382.
+marka: Pontiac
+model: Daewoo Kalos
+number of cars bought: 1
+price of all cars combined: 87202.11
+average price: 87202.11
+
+383.
+marka: Ford
+model: Taurus
+number of cars bought: 5
+price of all cars combined: 189687.50
+average price: 37937.50
+
+384.
+marka: Audi
+model: Coupe GT
+number of cars bought: 1
+price of all cars combined: 19044.06
+average price: 19044.06
+
+385.
+marka: Oldsmobile
+model: Alero
+number of cars bought: 1
+price of all cars combined: 19600.82
+average price: 19600.82
+
+386.
+marka: Lexus
+model: IS F
+number of cars bought: 2
+price of all cars combined: 80133.08
+average price: 40066.54
+
+387.
+marka: Jaguar
+model: XK
+number of cars bought: 1
+price of all cars combined: 18787.12
+average price: 18787.12
+
+388.
+marka: Ford
+model: Laser
+number of cars bought: 2
+price of all cars combined: 144794.34
+average price: 72397.17
+
+389.
+marka: Chevrolet
+model: Silverado 3500
+number of cars bought: 1
+price of all cars combined: 40912.28
+average price: 40912.28
+
+390.
+marka: Buick
+model: Skylark
+number of cars bought: 1
+price of all cars combined: 96346.01
+average price: 96346.01
+
+391.
+marka: Chrysler
+model: PT Cruiser
+number of cars bought: 3
+price of all cars combined: 186603.04
+average price: 62201.01
+
+392.
+marka: Chrysler
+model: Sebring
+number of cars bought: 2
+price of all cars combined: 182632.82
+average price: 91316.41
+
+393.
+marka: Maserati
+model: Coupe
+number of cars bought: 1
+price of all cars combined: 2453.93
+average price: 2453.93
+
+394.
+marka: Porsche
+model: Cayenne
+number of cars bought: 2
+price of all cars combined: 122182.32
+average price: 61091.16
+
+395.
+marka: Plymouth
+model: Grand Voyager
+number of cars bought: 1
+price of all cars combined: 12759.28
+average price: 12759.28
+
+396.
+marka: Mitsubishi
+model: Eclipse
+number of cars bought: 3
+price of all cars combined: 159458.76
+average price: 53152.92
+
+397.
+marka: Mitsubishi
+model: 3000GT
+number of cars bought: 1
+price of all cars combined: 69929.29
+average price: 69929.29
+
+398.
+marka: Ford
+model: Probe
+number of cars bought: 2
+price of all cars combined: 145214.58
+average price: 72607.29
+
+399.
+marka: Mitsubishi
+model: Lancer
+number of cars bought: 2
+price of all cars combined: 73737.62
+average price: 36868.81
+
+400.
+marka: Nissan
+model: Maxima
+number of cars bought: 2
+price of all cars combined: 104280.11
+average price: 52140.06
+
+401.
+marka: Mazda
+model: MPV
+number of cars bought: 2
+price of all cars combined: 148235.72
+average price: 74117.86
+
+402.
+marka: Toyota
+model: Matrix
+number of cars bought: 1
+price of all cars combined: 66666.84
+average price: 66666.84
+
+403.
+marka: Mercury
+model: Villager
+number of cars bought: 3
+price of all cars combined: 116091.94
+average price: 38697.31
+
+404.
+marka: Ford
+model: Windstar
+number of cars bought: 2
+price of all cars combined: 87060.64
+average price: 43530.32
+
+405.
+marka: BMW
+model: Z4
+number of cars bought: 2
+price of all cars combined: 121386.55
+average price: 60693.28
+
+406.
+marka: Pontiac
+model: Grand Prix
+number of cars bought: 7
+price of all cars combined: 366775.48
+average price: 52396.50
+
+407.
+marka: BMW
+model: 1 Series
+number of cars bought: 1
+price of all cars combined: 59998.39
+average price: 59998.39
+
+408.
+marka: Buick
+model: Estate
+number of cars bought: 1
+price of all cars combined: 81302.51
+average price: 81302.51
+
+409.
+marka: Toyota
+model: MR2
+number of cars bought: 1
+price of all cars combined: 46421.38
+average price: 46421.38
+
+410.
+marka: Volvo
+model: XC70
+number of cars bought: 2
+price of all cars combined: 124388.20
+average price: 62194.10
+
+411.
+marka: Buick
+model: Regal
+number of cars bought: 2
+price of all cars combined: 137030.49
+average price: 68515.25
+
+412.
+marka: Jeep
+model: Compass
+number of cars bought: 1
+price of all cars combined: 92254.93
+average price: 92254.93
+
+413.
+marka: BMW
+model: 7 Series
+number of cars bought: 3
+price of all cars combined: 170748.02
+average price: 56916.01
+
+414.
+marka: Dodge
+model: Ram 1500
+number of cars bought: 2
+price of all cars combined: 195649.87
+average price: 97824.94
+
+415.
+marka: Acura
+model: NSX
+number of cars bought: 2
+price of all cars combined: 123694.94
+average price: 61847.47
+
+416.
+marka: Cadillac
+model: Escalade EXT
+number of cars bought: 3
+price of all cars combined: 183935.08
+average price: 61311.69
+
+417.
+marka: Chevrolet
+model: 1500
+number of cars bought: 4
+price of all cars combined: 177837.22
+average price: 44459.31
+
+418.
+marka: Isuzu
+model: i-370
+number of cars bought: 1
+price of all cars combined: 18055.25
+average price: 18055.25
+
+419.
+marka: Plymouth
+model: Colt
+number of cars bought: 1
+price of all cars combined: 57417.48
+average price: 57417.48
+
+420.
+marka: Maserati
+model: Biturbo
+number of cars bought: 1
+price of all cars combined: 64426.98
+average price: 64426.98
+
+421.
+marka: Honda
+model: S2000
+number of cars bought: 1
+price of all cars combined: 87946.88
+average price: 87946.88
+
+422.
+marka: Isuzu
+model: Trooper
+number of cars bought: 3
+price of all cars combined: 158360.93
+average price: 52786.98
+
+423.
+marka: Tesla
+model: Roadster
+number of cars bought: 1
+price of all cars combined: 7056.76
+average price: 7056.76
+
+424.
+marka: GMC
+model: Sierra 3500
+number of cars bought: 1
+price of all cars combined: 53506.27
+average price: 53506.27
+
+425.
+marka: Dodge
+model: Dakota Club
+number of cars bought: 3
+price of all cars combined: 40680.87
+average price: 13560.29
+
+426.
+marka: Dodge
+model: Avenger
+number of cars bought: 2
+price of all cars combined: 101941.42
+average price: 50970.71
+
+427.
+marka: Oldsmobile
+model: Silhouette
+number of cars bought: 3
+price of all cars combined: 85918.62
+average price: 28639.54
+
+428.
+marka: Saab
+model: 9000
+number of cars bought: 3
+price of all cars combined: 162293.71
+average price: 54097.90
+
+429.
+marka: Dodge
+model: Ram 2500
+number of cars bought: 1
+price of all cars combined: 60999.32
+average price: 60999.32
+
+430.
+marka: Nissan
+model: GT-R
+number of cars bought: 1
+price of all cars combined: 3222.64
+average price: 3222.64
+
+431.
+marka: Chevrolet
+model: HHR
+number of cars bought: 3
+price of all cars combined: 94990.41
+average price: 31663.47
+
+432.
+marka: Ford
+model: Crown Victoria
+number of cars bought: 4
+price of all cars combined: 274944.58
+average price: 68736.15
+
+433.
+marka: Dodge
+model: Charger
+number of cars bought: 3
+price of all cars combined: 230732.65
+average price: 76910.88
+
+434.
+marka: Land Rover
+model: Range Rover
+number of cars bought: 5
+price of all cars combined: 186477.43
+average price: 37295.49
+
+435.
+marka: Volkswagen
+model: Touareg
+number of cars bought: 1
+price of all cars combined: 22049.47
+average price: 22049.47
+
+436.
+marka: Chevrolet
+model: Silverado 2500
+number of cars bought: 4
+price of all cars combined: 264113.25
+average price: 66028.31
+
+437.
+marka: Oldsmobile
+model: Achieva
+number of cars bought: 2
+price of all cars combined: 55818.77
+average price: 27909.39
+
+438.
+marka: Dodge
+model: Daytona
+number of cars bought: 1
+price of all cars combined: 65849.56
+average price: 65849.56
+
+439.
+marka: Mercedes-Benz
+model: E-Class
+number of cars bought: 7
+price of all cars combined: 311411.12
+average price: 44487.30
+
+440.
+marka: Jeep
+model: Wrangler
+number of cars bought: 1
+price of all cars combined: 61759.51
+average price: 61759.51
+
+441.
+marka: Volvo
+model: XC90
+number of cars bought: 3
+price of all cars combined: 186039.03
+average price: 62013.01
+
+442.
+marka: Land Rover
+model: LR3
+number of cars bought: 1
+price of all cars combined: 55622.3
+average price: 55622.3
+
+443.
+marka: GMC
+model: Envoy
+number of cars bought: 1
+price of all cars combined: 58388.07
+average price: 58388.07
+
+444.
+marka: Suzuki
+model: Verona
+number of cars bought: 1
+price of all cars combined: 48857.49
+average price: 48857.49
+
+445.
+marka: Aston Martin
+model: DB9
+number of cars bought: 2
+price of all cars combined: 24721.47
+average price: 12360.74
+
+446.
+marka: Hyundai
+model: Tiburon
+number of cars bought: 1
+price of all cars combined: 64358.19
+average price: 64358.19
+
+447.
+marka: Hyundai
+model: Scoupe
+number of cars bought: 1
+price of all cars combined: 66626.9
+average price: 66626.9
+
+448.
+marka: Ford
+model: Ranger
+number of cars bought: 2
+price of all cars combined: 152980.97
+average price: 76490.49
+
+449.
+marka: Chevrolet
+model: Venture
+number of cars bought: 1
+price of all cars combined: 61806.78
+average price: 61806.78
+
+450.
+marka: Lincoln
+model: Mark VIII
+number of cars bought: 1
+price of all cars combined: 53874.79
+average price: 53874.79
+
+451.
+marka: Kia
+model: Sportage
+number of cars bought: 1
+price of all cars combined: 62965.49
+average price: 62965.49
+
+452.
+marka: Bentley
+model: Continental Super
+number of cars bought: 1
+price of all cars combined: 95732.27
+average price: 95732.27
+
+453.
+marka: Chevrolet
+model: Caprice Classic
+number of cars bought: 1
+price of all cars combined: 73905.56
+average price: 73905.56
+
+454.
+marka: Kia
+model: Sedona
+number of cars bought: 2
+price of all cars combined: 131592.00
+average price: 65796.00
+
+455.
+marka: Chevrolet
+model: Camaro
+number of cars bought: 1
+price of all cars combined: 69624.54
+average price: 69624.54
+
+456.
+marka: Honda
+model: del Sol
+number of cars bought: 1
+price of all cars combined: 38137.21
+average price: 38137.21
+
+457.
+marka: Aston Martin
+model: DBS
+number of cars bought: 1
+price of all cars combined: 72356.01
+average price: 72356.01
+
+458.
+marka: Chevrolet
+model: 2500
+number of cars bought: 5
+price of all cars combined: 183302.19
+average price: 36660.44
+
+459.
+marka: Buick
+model: LeSabre
+number of cars bought: 2
+price of all cars combined: 23472.79
+average price: 11736.40
+
+460.
+marka: Toyota
+model: Ipsum
+number of cars bought: 1
+price of all cars combined: 41036.16
+average price: 41036.16
+
+461.
+marka: Saab
+model: 9-3
+number of cars bought: 1
+price of all cars combined: 35561.43
+average price: 35561.43
+
+462.
+marka: Chevrolet
+model: TrailBlazer
+number of cars bought: 2
+price of all cars combined: 88192.20
+average price: 44096.10
+
+463.
+marka: Chevrolet
+model: Aveo
+number of cars bought: 1
+price of all cars combined: 54181.97
+average price: 54181.97
+
+464.
+marka: GMC
+model: Sierra 2500HD
+number of cars bought: 1
+price of all cars combined: 40112.71
+average price: 40112.71
+
+465.
+marka: Mercedes-Benz
+model: C-Class
+number of cars bought: 4
+price of all cars combined: 189994.55
+average price: 47498.64
+
+466.
+marka: Dodge
+model: Ram Wagon B250
+number of cars bought: 2
+price of all cars combined: 81433.56
+average price: 40716.78
+
+467.
+marka: Saab
+model: 9-5
+number of cars bought: 4
+price of all cars combined: 225401.10
+average price: 56350.28
+
+468.
+marka: Lincoln
+model: Town Car
+number of cars bought: 2
+price of all cars combined: 171169.42
+average price: 85584.71
+
+469.
+marka: Cadillac
+model: Fleetwood
+number of cars bought: 1
+price of all cars combined: 97896.49
+average price: 97896.49
+
+470.
+marka: Toyota
+model: Highlander
+number of cars bought: 2
+price of all cars combined: 150774.78
+average price: 75387.39
+
+471.
+marka: Buick
+model: Rendezvous
+number of cars bought: 2
+price of all cars combined: 121958.95
+average price: 60979.48
+
+472.
+marka: Chevrolet
+model: Caprice
+number of cars bought: 2
+price of all cars combined: 27012.90
+average price: 13506.45
+
+473.
+marka: Toyota
+model: FJ Cruiser
+number of cars bought: 1
+price of all cars combined: 42841.55
+average price: 42841.55
+
+474.
+marka: Dodge
+model: Ram Van 2500
+number of cars bought: 2
+price of all cars combined: 151473.22
+average price: 75736.61
+
+475.
+marka: Lincoln
+model: Continental
+number of cars bought: 2
+price of all cars combined: 124089.43
+average price: 62044.72
+
+476.
+marka: Mazda
+model: B2000
+number of cars bought: 1
+price of all cars combined: 69924.62
+average price: 69924.62
+
+477.
+marka: Oldsmobile
+model: Intrigue
+number of cars bought: 3
+price of all cars combined: 123008.07
+average price: 41002.69
+
+478.
+marka: Ford
+model: E250
+number of cars bought: 1
+price of all cars combined: 98725.52
+average price: 98725.52
+
+479.
+marka: Chevrolet
+model: Corvette
+number of cars bought: 7
+price of all cars combined: 221610.92
+average price: 31658.70
+
+480.
+marka: Toyota
+model: Tacoma
+number of cars bought: 2
+price of all cars combined: 92214.85
+average price: 46107.43
+
+481.
+marka: Buick
+model: Coachbuilder
+number of cars bought: 2
+price of all cars combined: 154743.75
+average price: 77371.88
+
+482.
+marka: Dodge
+model: Ram Van 1500
+number of cars bought: 3
+price of all cars combined: 71245.79
+average price: 23748.60
+
+483.
+marka: GMC
+model: Yukon
+number of cars bought: 3
+price of all cars combined: 152439.91
+average price: 50813.30
+
+484.
+marka: Jeep
+model: Grand Cherokee
+number of cars bought: 1
+price of all cars combined: 825.37
+average price: 825.37
+
+485.
+marka: Dodge
+model: Ram Wagon B350
+number of cars bought: 1
+price of all cars combined: 81464.86
+average price: 81464.86
+
+486.
+marka: BMW
+model: X5 M
+number of cars bought: 1
+price of all cars combined: 74527.0
+average price: 74527.0
+
+487.
+marka: Buick
+model: Rainier
+number of cars bought: 1
+price of all cars combined: 80773.22
+average price: 80773.22
+
+488.
+marka: Mercedes-Benz
+model: SL-Class
+number of cars bought: 7
+price of all cars combined: 327666.82
+average price: 46809.55
+
+489.
+marka: Subaru
+model: Tribeca
+number of cars bought: 1
+price of all cars combined: 51935.34
+average price: 51935.34
+
+490.
+marka: Ford
+model: F450
+number of cars bought: 1
+price of all cars combined: 66244.66
+average price: 66244.66
+
+491.
+marka: Ford
+model: Excursion
+number of cars bought: 1
+price of all cars combined: 73354.65
+average price: 73354.65
+
+492.
+marka: Dodge
+model: Spirit
+number of cars bought: 1
+price of all cars combined: 62428.34
+average price: 62428.34
+
+493.
+marka: Mercury
+model: Mariner
+number of cars bought: 3
+price of all cars combined: 130977.25
+average price: 43659.08
+
+494.
+marka: MINI
+model: Clubman
+number of cars bought: 1
+price of all cars combined: 16641.3
+average price: 16641.3
+
+495.
+marka: Honda
+model: Fit
+number of cars bought: 2
+price of all cars combined: 103069.55
+average price: 51534.78
+
+496.
+marka: Chevrolet
+model: Equinox
+number of cars bought: 1
+price of all cars combined: 52849.21
+average price: 52849.21
+
+497.
+marka: Chevrolet
+model: 3500
+number of cars bought: 1
+price of all cars combined: 80037.02
+average price: 80037.02
+
+498.
+marka: Toyota
+model: Prius
+number of cars bought: 2
+price of all cars combined: 149980.49
+average price: 74990.25
+
+499.
+marka: Hyundai
+model: Genesis
+number of cars bought: 1
+price of all cars combined: 1489.55
+average price: 1489.55
+
+500.
+marka: Saab
+model: 900
+number of cars bought: 2
+price of all cars combined: 98143.74
+average price: 49071.87
+
+501.
+marka: GMC
+model: Sierra Denali
+number of cars bought: 1
+price of all cars combined: 98958.47
+average price: 98958.47
+
+502.
+marka: Chevrolet
+model: Express 1500
+number of cars bought: 2
+price of all cars combined: 40663.12
+average price: 20331.56
+
